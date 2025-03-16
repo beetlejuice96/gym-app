@@ -1,6 +1,6 @@
 # Plan de Desarrollo Detallado - App de Gym Tracker
 
-## Fase 1: Configuración y Arquitectura Base (2 semanas)
+## Fase 1: Configuración y Arquitectura Base
 
 ### Semana 1: Configuración del Proyecto
 1. **Configuración del Entorno de Desarrollo**
@@ -54,7 +54,7 @@
    - Configurar middleware de autenticación
    - Crear contexto de autenticación para toda la app
 
-## Fase 2: Desarrollo de Funcionalidades Core (4 semanas)
+## Fase 2: Desarrollo de Funcionalidades Core
 
 ### Semana 3: Gestión de Usuarios y Roles
 
@@ -112,7 +112,7 @@
    - Alertas para finalización de rutinas
    - Notificaciones en-app y email (opcional)
 
-## Fase 3: Visualización y UX (2 semanas)
+## Fase 3: Visualización y UX
 
 ### Semana 7: Dashboards y Visualización
 
@@ -148,8 +148,7 @@
    - Implementar estados de carga y error
    - Añadir tooltips y ayudas contextuales
 
-## Fase 4: Pruebas y Despliegue (2 semanas)
-
+## Fase 4: Pruebas y Despliegue
 <!-- ### Semana 9: Pruebas -->
 
 <!-- 1. **Pruebas Unitarias y de Integración**
